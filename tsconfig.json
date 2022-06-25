@@ -1,0 +1,13 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "rootDir": ".",
+    "baseUrl": ".",
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "target": "es2015",
+    "module": "esnext",
+    "skipLibCheck": true,
+    "skipDefaultLibCheck": true
+  }
+}
